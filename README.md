@@ -1,2 +1,3 @@
 # Hello-world
-Learning to git
+Learning to edit and commit
+and to pull requests
